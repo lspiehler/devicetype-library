@@ -1,0 +1,53 @@
+---
+manufacturer: Cisco
+model: ASR1000-2T+20X1GE
+part_number: ASR1000-2T+20X1GE
+comments: '[Cisco ASR 1000 Series Ethernet Line Cards Data Sheet](https://www.cisco.com/c/en/us/products/collateral/application-networking-services/wide-area-application-services-waas-software/data-sheet-c78-729778.html)'
+console-ports:
+  - name: con{module}
+    type: rj-45
+interfaces:
+  - name: GigabitEthernet{module}/0
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/1
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/2
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/3
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/4
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/5
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/6
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/7
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/8
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/9
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/10
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/11
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/12
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/13
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/14
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/15
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/16
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/17
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/18
+    type: 1000base-x-sfp
+  - name: GigabitEthernet{module}/19
+    type: 1000base-x-sfp
+  - name: TenGigabitEthernet{module}/20
+    type: 10gbase-x-x2
+  - name: TenGigabitEthernet{module}/21
+    type: 10gbase-x-x2
