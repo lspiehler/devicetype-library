@@ -2,6 +2,7 @@
 manufacturer: Cisco
 model: ASR1000-2T+20X1GE
 part_number: ASR1000-2T+20X1GE
+slug: asr1000-2tplus20x1ge
 comments: '[Cisco ASR 1000 Series Ethernet Line Cards Data Sheet](https://www.cisco.com/c/en/us/products/collateral/application-networking-services/wide-area-application-services-waas-software/data-sheet-c78-729778.html)'
 console-ports:
   - name: con{module}
